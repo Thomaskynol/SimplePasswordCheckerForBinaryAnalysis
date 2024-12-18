@@ -22,6 +22,3 @@ The program checks if the user-provided password matches a hardcoded correct pas
 2. Compile the code with a C compiler (e.g., GCC).
 3. Use **Binary Ninja** or your preferred disassembler to analyze the binary.
 4. Look for the hardcoded password and attempt to understand how the program validates it.
-
-### Example Output:
-If the correct password is entered:
